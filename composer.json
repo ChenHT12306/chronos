@@ -1,5 +1,5 @@
 {
-    "name": "ChenHT12306/chronos",
+    "name": "chen-ht12306/chronos",
     "description": "一个优雅的 PHP 日期时间处理库，类似 Carbon，提供链式调用和丰富的时间操作方法",
     "keywords": [
         "date",
